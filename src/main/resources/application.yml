@@ -1,0 +1,4 @@
+client:
+  ms-cbarconfig:
+    endpoint: http://localhost:8000
+
