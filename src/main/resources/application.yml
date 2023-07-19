@@ -1,4 +1,8 @@
-client:
-  ms-cbarconfig:
-    endpoint: http://localhost:8000
+server:
+  port: 8081
+ms-cbarconfig:
+  endpoint: http://localhost:8082/rates
+
+
+
 
